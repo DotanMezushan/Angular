@@ -3,7 +3,8 @@
         "browserslist",
         "evrerne",
         "koral",
-        "minlength"
+        "minlength",
+        "zipcode"
     ],
     "cSpell.ignoreWords": [
         "HAGIT",
